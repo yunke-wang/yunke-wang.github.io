@@ -27,7 +27,7 @@ author:
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=m4wbcOsAAAAJ&hl=zh-CN&oi=ao"
+  googlescholar    : "m4wbcOsAAAAJ&hl=zh-CN&oi=ao"
   email            : "yunke.wang@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yunke-wang"
+  github           : "yunke-wang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yunke-wang-7b7b47201/"
+  linkedin         : "yunke-wang-7b7b47201"
   dblp             : "https://dblp.org/pid/165/9106.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
