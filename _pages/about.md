@@ -62,12 +62,12 @@ His research interest lies in Imitation Learning and its applications in compute
 # 🎖 Honors and Awards
 - *2023.01* AAAI-23 Student Scholarship, AAAI. 
 - *2022.10* Ourstanding Graduate Student Scholarship, Wuhan University. 
-- *2022.07* National Scholarship for Studying Abroad, Chinese Scholarship Council.
+- *2022.07* National Scholarship, Chinese Scholarship Council.
 - *2022.01* High-Level Paper Award at Institute of AI, Wuhan University. 
 - *2021.10* Yisheng Ph.D Scholarship, Wuhan University. 
 - *2018.10* Outstanding Student Scholarship, Wuhan University.
 - *2016.10* Outstanding Student Scholarship, Wuhan University.
-****
+
 - *2022.12* First Price Winner of China Graduate AI Innovation Competition **(8/1174)**.
 - *2019.08* Third Prize Winner of Chinese Collegiate Computing Competition.
 - *2018.08* First Prize Winner of TI CUP (Central South Region).
@@ -81,7 +81,7 @@ His research interest lies in Imitation Learning and its applications in compute
 # 💬 Invited Talks
 - *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Forum on Artificial Intelligence in Central and Western China.
 - *2021.10*, "Deep Reinforcement Learning in Automonous Driving" at In-Driving (武汉环宇智行科技有限公司).
-- *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Class COMP5329.
+- *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class COMP5329.
 
 # 💻 Academic Service
 - Official Conference Reviewer / Program Committee: ICML (2022, 2023), ICLR (2023), NeurIPS (2022), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023), ICPR (2020, 2021).
