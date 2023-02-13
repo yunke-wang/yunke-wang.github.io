@@ -41,7 +41,7 @@ His research interest lies in Imitation Learning and its applications in compute
 
 - **Yunke Wang**, Chang Xu and Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2021.
 [[Paper]](https://www.ijcai.org/proceedings/2021/0434.pdf)
-[[Supp]](https://www.ijcai.org/proceedings/2021/0434.pdf)
+[[Supp]](https://github.com/yunke-wang/yunke-wang.github.io/blob/main/docs/IJCAI__21_Robust_Adversarial_Imitation_Learning_via_Adaptively_Selected_Demonstrations.pdf)
 [[Code]](https://github.com/yunke-wang/SAIL)
 
 - **Yunke Wang**, Bo Du and Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
