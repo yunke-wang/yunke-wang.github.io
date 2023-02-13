@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Yunke Wang currently is pursuing his Ph.D. degree in the School of Computer Science at Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/teacherinfo.aspx?id=254) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the university of Sydney (USYD) since September 2022.
+Yunke Wang currently is pursuing his Ph.D. degree in the School of Computer Science at Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/info/1019/2892.htm) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the university of Sydney (USYD) since September 2022.
 
 His research interest lies in Imitation Learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by considering how to exploit imperfect demonstrations. He also keeps a close attention on deep learning algorithms in computer vision.
 
@@ -78,11 +78,12 @@ His research interest lies in Imitation Learning and its applications in compute
 - *2017.08* Third Prize Winner of Chinese Collegiate Computing Competition.
 
 # 📖 Educations
-- *2022.09 - Present*, Visiting Research Student, The University of Sydney (USYD), Sydney, Australia.
-- *2019.09 - Present*, Ph.D in Artificial Intelligence, Wuhan University (WHU), Wuhan, China.
 - *2015.09 - 2019.06*, Bachelor of Engineering in Computer Science, Wuhan University (WHU), Wuhan, China.
+- *2019.09 - Present*, Ph.D in Artificial Intelligence, Wuhan University (WHU), Wuhan, China.
+- *2022.09 - 2023.09*, Visiting Research Student, The University of Sydney (USYD), Sydney, Australia.
 
 # 💬 Invited Talks
+- *2020.11*, "Learning to Weight Imperfect Demonstrations" at Deep RL workshop, NeurIPS 2020, online.
 - *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Forum on Artificial Intelligence in Central and Western China.
 - *2021.10*, "Deep Reinforcement Learning in Automonous Driving" at In-Driving (武汉环宇智行科技有限公司).
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class COMP5329.
