@@ -17,42 +17,73 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Yunke Wang currently is pursuing his Ph.D. degree in the School of Computer Science at Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/teacherinfo.aspx?id=254) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the university of Sydney (USYD) since September 2022.
 
+His research interest lies in Imitation Learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by considering how to exploit imperfect demonstrations. He also keeps a close attention on deep learning algorithms in computer vision.
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Yunke Wang**, Chang Xu, Bo Du and Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
+[[Paper]](http://proceedings.mlr.press/v139/wang21aa/wang21aa.pdf)
+[[Supp]](http://proceedings.mlr.press/v139/wang21aa/wang21aa-supp.pdf)
+[[Code]](https://github.com/yunke-wang/WGAIL)
+[[Code_Atari]](https://github.com/yunke-wang/gail_atari)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **Yunke Wang**, Chang Xu and Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2021.
+[[Paper]](https://www.ijcai.org/proceedings/2021/0434.pdf)
+[[Supp]](https://www.ijcai.org/proceedings/2021/0434.pdf)
+[[Code]](https://github.com/yunke-wang/SAIL)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- **Yunke Wang**, Bo Du and Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.
+[[Paper]](https://www.ijcai.org/proceedings/2021/0434.pdf)
+[[Supp]](https://www.ijcai.org/proceedings/2021/0434.pdf)
+[[Code]](https://github.com/yunke-wang/UID)
+
+- **Yunke Wang**, Bo Du and Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, 2022, Preprint.
+[[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
+
+- **Yunke Wang**, et al. "Extraploting Beyond Imperfect Sampling Schedule in Diffusion Probablitic Models", 2023, Preprint.
+
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+ -->
+ 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01* AAAI-23 Student Scholarship, AAAI. 
+- *2022.10* Ourstanding Graduate Student Scholarship, Wuhan University. 
+- *2022.07* National Scholarship for Studying Abroad, Chinese Scholarship Council.
+- *2022.01* High-Level Paper Award at Institute of AI, Wuhan University. 
+- *2021.10* Yisheng Ph.D Scholarship, Wuhan University. 
+- *2018.10* Outstanding Student Scholarship, Wuhan University.
+- *2016.10* Outstanding Student Scholarship, Wuhan University.
+-----------------
+- *2022.12* First Price Winner of China Graduate AI Innovation Competition **(8/1174)**.
+- *2019.08* Third Prize Winner of Chinese Collegiate Computing Competition.
+- *2018.08* First Prize Winner of TI CUP (Central South Region).
+- *2017.08* Third Prize Winner of Chinese Collegiate Computing Competition.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present*, Visiting Research Student, The University of Sydney (USYD), Sydney, Australia.
+- *2019.09 - Present*, Ph.D in Artificial Intelligence, Wuhan University (WHU), Wuhan, China.
+- *2015.09 - 2019.06*, Bachelor of Engineering in Computer Science, Wuhan University (WHU), Wuhan, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Forum on Artificial Intelligence in Central and Western China.
+- *2021.10*, "Deep Reinforcement Learning in Automonous Driving" at In-Driving (武汉环宇智行科技有限公司).
+- *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Class COMP5329.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Service
+- Official Conference Reviewer / Program Committee: ICML (2022, 2023), ICLR (2023), NeurIPS (2022), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023), ICPR (2020, 2021).
+- Official Journal Reviewer: IEEE Transactions on Multimedia (T-MM) (Since 2021), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) (Since 2022), etc.
+- Externel Reviewer: ICME 2023, KDD 2021.
