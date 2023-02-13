@@ -22,9 +22,13 @@ Yunke Wang currently is pursuing his Ph.D. degree in the School of Computer Scie
 
 His research interest lies in Imitation Learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by considering how to exploit imperfect demonstrations. He also keeps a close attention on deep learning algorithms in computer vision.
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2022.02*: I will serve as the reviewer of ICCV 2023 and KDD 2023.
+- *2022.01*: I will serve as the reviewer of ICML 2023.
+- *2022.01*: I recieve the AAAI-23 Student Scholarship.
+- *2022.12*: 🎉🎉 We won the First Price Winner of China Graduate AI Innovation Competition**(8/1174)**
+- *2022.11*: 🎉🎉 One Paper are accpeted by AAAI-2023. 
+- *2022.10*: I will serve as the reviewer of ICLR 2023.
 
 # 📝 Publications 
 
