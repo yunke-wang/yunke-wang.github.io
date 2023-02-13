@@ -27,7 +27,7 @@ His research interest lies in Imitation Learning and its applications in compute
 - *2022.01*: I will serve as the reviewer of ICML 2023.
 - *2022.01*: I recieve the AAAI-23 Student Scholarship.
 - *2022.12*: 🎉🎉 We won the First Price Winner of China Graduate AI Innovation Competition**(8/1174)**
-- *2022.11*: 🎉🎉 One Paper are accpeted by AAAI-2023. 
+- *2022.11*: 🎉🎉 One Paper is accpeted by AAAI-2023. 
 - *2022.10*: I will serve as the reviewer of ICLR 2023.
 
 # 📝 Publications 
