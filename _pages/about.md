@@ -85,7 +85,7 @@ His research interest lies in Imitation Learning and its applications in compute
 
 # 💬 Invited Talks
 - *2020.11*, "Learning to Weight Imperfect Demonstrations" at Deep RL workshop, NeurIPS 2020, online.
-- *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Forum on Artificial Intelligence in Central and Western China (中西部人工智能类博士论坛).
+- *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Forum on Artificial Intelligence in Central and Western China (中西部人工智能类博士生论坛), online.
 - *2021.10*, "Deep Reinforcement Learning in Autonomous Driving" at In-Driving (武汉环宇智行科技有限公司).
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class COMP5329.
 
