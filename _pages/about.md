@@ -26,8 +26,8 @@ His research interest lies in Imitation Learning and its applications in compute
 - *2023.02*: I will serve as the reviewer of ICCV 2023 and KDD 2023.
 - *2023.01*: I recieve the AAAI-23 Student Scholarship.
 - *2022.12*: I will serve as the reviewer of ICML 2023.
-- *2022.12*: 🎉🎉 We win the First Price of China Graduate AI Innovation Competition**(8/1174)**
-- *2022.11*: 🎉🎉 One Paper is accepted by AAAI-2023. 
+- *2022.12*: 🎉🎉 Our project 'Gait Control and Automatic Navigation Algorithm of Robust Quadruped Robot' wins the First Price of China Graduate AI Innovation Competition**(8/1174)**
+- *2022.11*: 🎉🎉 Our paper 'Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning' is accepted by AAAI-2023. 
 - *2022.10*: I will serve as the reviewer of CVPR 2023.
 
 # 📝 Publications 
