@@ -67,7 +67,7 @@ His research interest lies in Imitation Learning and its applications in compute
 # 🎖 Honors and Awards
 - *2023.01* AAAI-23 Student Scholarship, AAAI. 
 - *2022.10* Ourstanding Graduate Student Scholarship, Wuhan University. 
-- *2022.07* National Scholarship, Chinese Scholarship Council.
+- *2022.07* National Scholarship for Studying Abroad, Chinese Scholarship Council.
 - *2022.01* High-Level Paper Award at Institute of AI, Wuhan University. 
 - *2021.10* Yisheng Ph.D Scholarship, Wuhan University. 
 - *2018.10* Outstanding Student Scholarship, Wuhan University.
