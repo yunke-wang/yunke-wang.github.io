@@ -43,8 +43,8 @@ His research interest lies in Imitation Learning and its applications in compute
 [[Code]](https://github.com/yunke-wang/SAIL)
 
 - **Yunke Wang**, Bo Du and Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
-[[Paper]](https://www.ijcai.org/proceedings/2021/0434.pdf)
-[[Supp]](https://www.ijcai.org/proceedings/2021/0434.pdf)
+[[Paper]](https://arxiv.org/pdf/2302.06271.pdf)
+[[Supp]](https://github.com/yunke-wang/UID)
 [[Code]](https://github.com/yunke-wang/UID)
 
 - **Yunke Wang**, Bo Du and Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, 2022, Preprint.
