@@ -72,7 +72,7 @@ His research interest lies in Imitation Learning and its applications in compute
 - *2021.10* Yisheng Ph.D Scholarship, Wuhan University. 
 - *2018.10* Outstanding Student Scholarship, Wuhan University.
 - *2016.10* Outstanding Student Scholarship, Wuhan University.
-
+##
 - *2022.12* First Price Winner of China Graduate AI Innovation Competition **(8/1174)**.
 - *2018.08* Second Prize Winner of Chinese Collegiate Computing Competition.
 - *2018.08* First Prize Winner of Chinese Collegiate Internet of Things Design Competition (TI CUP) (Central South Region).
