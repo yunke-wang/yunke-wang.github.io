@@ -20,7 +20,7 @@ redirect_from:
 
 Yunke Wang currently is pursuing his Ph.D. degree in the School of Computer Science at Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/info/1019/2892.htm) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the university of Sydney (USYD) since September 2022.
 
-His research interest lies in Imitation Learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by considering how to exploit imperfect demonstrations. He also keeps a close attention on deep learning algorithms in computer vision.
+His research interests lie in imitation learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by exploring how to effectively leverage imperfect and visual demonstrations. In addition, he closely follows the latest developments in deep learning algorithms within the computer vision field.
 
 # 🔥 News
 - *2023.02*: I will serve as the reviewer of ICCV 2023 and KDD 2023.
@@ -90,6 +90,6 @@ His research interest lies in Imitation Learning and its applications in compute
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class COMP5329.
 
 # 💻 Academic Service
-- Official Conference Reviewer / Program Committee Member: ICML (2022, 2023), ICLR (2023), NeurIPS (2022), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023), ICPR (2020, 2021).
+- Official Conference Reviewer / Program Committee Member: ICML (2022, 2023), ICLR (2023), NeurIPS (2022), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023), ICPR (2020, 2021), PLP (2021 KDD Workshop on Programming Language Processing).
 - Official Journal Reviewer: IEEE Transactions on Multimedia (T-MM) (Since 2021), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) (Since 2022), etc.
 - Externel Reviewer: ICME 2023, KDD 2021.
