@@ -26,7 +26,7 @@ His research interests lie in imitation learning and its applications in compute
 - *2023.02*: I will serve as the reviewer of ICCV 2023 and KDD 2023.
 - *2023.01*: I recieve the AAAI-23 Student Scholarship.
 - *2022.12*: I will serve as the reviewer of ICML 2023.
-- *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the first prize of China Graduate AI Innovation Competition **(8/1174)**
+- *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**
 - *2022.11*: 🎉🎉 Our paper 'Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning' is accepted by AAAI-2023. 
 - *2022.10*: I will serve as the reviewer of CVPR 2023.
 
@@ -50,7 +50,7 @@ His research interests lie in imitation learning and its applications in compute
 - **Yunke Wang**, Bo Du and Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, 2022, Preprint.
 [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 
-- **Yunke Wang**, et al. "Extraploting Beyond Imperfect Sampling Schedule in Diffusion Probablitic Models", 2023, Preprint.
+- **Yunke Wang**, et al. "Extraploting Beyond Imperfect Sampling Schedule in Diffusion Probabilistic Models", 2023, Preprint.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
