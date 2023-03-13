@@ -31,18 +31,18 @@ His research interests lie in imitation learning and its applications in compute
 - *2022.10*: I will serve as the reviewer of CVPR 2023.
 
 # 📝 Publications 
-- **Yunke Wang**, Chang Xu, Bo Du and Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
+- `ICML 2021` **Yunke Wang**, Chang Xu, Bo Du and Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning, 2021.
 [[Paper]](http://proceedings.mlr.press/v139/wang21aa/wang21aa.pdf)
 [[Supp]](http://proceedings.mlr.press/v139/wang21aa/wang21aa-supp.pdf)
 [[Code]](https://github.com/yunke-wang/WGAIL)
 [[Code_Atari]](https://github.com/yunke-wang/gail_atari)
 
-- **Yunke Wang**, Chang Xu and Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2021.
+- `IJCAI 2021` **Yunke Wang**, Chang Xu and Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence, 2021.
 [[Paper]](https://www.ijcai.org/proceedings/2021/0434.pdf)
 [[Supp]](https://github.com/yunke-wang/yunke-wang.github.io/blob/main/docs/IJCAI__21_Robust_Adversarial_Imitation_Learning_via_Adaptively_Selected_Demonstrations.pdf)
 [[Code]](https://github.com/yunke-wang/SAIL)
 
-- **Yunke Wang**, Bo Du and Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
+- `AAAI 2023` **Yunke Wang**, Bo Du and Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2023.
 [[Paper]](https://arxiv.org/pdf/2302.06271.pdf)
 [[Supp]](https://github.com/yunke-wang/UID)
 [[Code]](https://github.com/yunke-wang/UID)
