@@ -49,7 +49,7 @@ His research interests lie in imitation learning and its applications in compute
 - **Yunke Wang**, Bo Du, Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://arxiv.org/pdf/2302.06271.pdf)
-[[Supp]](https://github.com/yunke-wang/UID)
+[[Supp]](https://github.com/yunke-wang/yunke-wang.github.io/blob/main/docs/Appendix_For_UID.pdf)
 [[Code]](https://github.com/yunke-wang/UID)
 
 - **Yunke Wang**, Xiyu Wang, Anh-Dung Dinh, Bo Du, Chang Xu. "Learning to Schedule in Diffusion Probabilistic Models", In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
