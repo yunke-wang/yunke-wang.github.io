@@ -20,9 +20,11 @@ redirect_from:
 
 Yunke Wang currently is pursuing his Ph.D. degree in the School of Computer Science at Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/info/1019/2892.htm) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the university of Sydney (USYD) since September 2022.
 
-His research interests lie in imitation learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by exploring how to effectively leverage imperfect and visual demonstrations. In addition, he closely follows the latest developments in deep learning algorithms within the computer vision field.
+His research interests lie in imitation learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by exploring how to effectively leverage imperfect and visual demonstrations. In addition, he closely follows the latest developments in generative models within the computer vision field.
 
 # 🔥 News
+- *2023.05*: 🎉🎉 Our paper 'Learning to Schedule in Diffusion Probablisitic Models' is accepted by **KDD 2023**.
+- *2023.04*: I will serve as the reviewer of NeurIPS 2023 and Neural Networks.
 - *2023.02*: I will serve as the reviewer of ICCV 2023 and KDD 2023.
 - *2023.01*: I recieve the AAAI-23 Student Scholarship.
 - *2022.12*: I will serve as the reviewer of ICML 2023.
@@ -31,26 +33,31 @@ His research interests lie in imitation learning and its applications in compute
 - *2022.10*: I will serve as the reviewer of CVPR 2023.
 
 # 📝 Publications 
-- **Yunke Wang**, Chang Xu, Bo Du and Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
+- **Yunke Wang**, Chang Xu, Bo Du, Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
+<strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](http://proceedings.mlr.press/v139/wang21aa/wang21aa.pdf)
 [[Supp]](http://proceedings.mlr.press/v139/wang21aa/wang21aa-supp.pdf)
 [[Code]](https://github.com/yunke-wang/WGAIL)
 [[Code_Atari]](https://github.com/yunke-wang/gail_atari)
 
-- **Yunke Wang**, Chang Xu and Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2021.
+- **Yunke Wang**, Chang Xu, Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2021.
+<strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://www.ijcai.org/proceedings/2021/0434.pdf)
 [[Supp]](https://github.com/yunke-wang/yunke-wang.github.io/blob/main/docs/IJCAI__21_Robust_Adversarial_Imitation_Learning_via_Adaptively_Selected_Demonstrations.pdf)
 [[Code]](https://github.com/yunke-wang/SAIL)
 
-- **Yunke Wang**, Bo Du and Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
+- **Yunke Wang**, Bo Du, Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
+<strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://arxiv.org/pdf/2302.06271.pdf)
 [[Supp]](https://github.com/yunke-wang/UID)
 [[Code]](https://github.com/yunke-wang/UID)
 
-- **Yunke Wang**, Bo Du and Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, 2022, Preprint.
-[[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
+- **Yunke Wang**, Xiyu Wang, Anh-Dung Dinh, Bo Du, Chang Xu. "Learning to Schedule in Diffusion Probabilistic Models", In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
+<strong style="color:gray">(CCF A, Core A\*)</strong>
+[Coming Soon]
 
-- **Yunke Wang**, et al. "Extraploting Beyond Imperfect Sampling Schedule in Diffusion Probabilistic Models", 2023, Preprint.
+- **Yunke Wang**, Bo Du, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, 2022, Preprint.
+[[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,6 +97,6 @@ His research interests lie in imitation learning and its applications in compute
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class COMP5329.
 
 # 💻 Academic Service
-- Official Conference Reviewer / Program Committee Member: ICML (2022, 2023), ICLR (2023), NeurIPS (2022), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023), ICPR (2020, 2021), PLP (2021 KDD Workshop on Programming Language Processing).
-- Official Journal Reviewer: IEEE Transactions on Multimedia (T-MM) (Since 2021), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) (Since 2022), etc.
+- Official Conference Reviewer / Program Committee Member: NeurIPS (2022, 2023), ICML (2022, 2023), ICLR (2023), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023), ICPR (2020, 2021), PLP (2021 KDD Workshop on Programming Language Processing).
+- Official Journal Reviewer: IEEE Transactions on Multimedia (T-MM) (Since 2021), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) (Since 2022), Neural Networks (Since 2023), etc.
 - Externel Reviewer: ICME 2023, KDD 2021.
