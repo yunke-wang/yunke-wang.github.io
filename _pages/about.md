@@ -23,13 +23,13 @@ Yunke Wang currently is pursuing his Ph.D. degree in the School of Computer Scie
 His research interests lie in imitation learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by exploring how to effectively leverage imperfect and visual demonstrations. In addition, he closely follows the latest developments in generative models within the computer vision field.
 
 # 🔥 News
-- *2023.05*: 🎉🎉 Our paper 'Learning to Schedule in Diffusion Probablisitic Models' is accepted by **KDD 2023**.
+- *2023.05*: 🎉🎉 Our paper "Learning to Schedule in Diffusion Probablisitic Models" is accepted by **KDD 2023**.
 - *2023.04*: I will serve as the reviewer of NeurIPS 2023 and Neural Networks.
 - *2023.02*: I will serve as the reviewer of ICCV 2023 and KDD 2023.
 - *2023.01*: I recieve the AAAI-23 Student Scholarship.
 - *2022.12*: I will serve as the reviewer of ICML 2023.
 - *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**
-- *2022.11*: 🎉🎉 Our paper 'Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning' is accepted by AAAI-2023. 
+- *2022.11*: 🎉🎉 Our paper "Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning" is accepted by **AAAI 2023**. 
 - *2022.10*: I will serve as the reviewer of CVPR 2023.
 
 # 📝 Publications 
