@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Yunke Wang currently is pursuing his Ph.D. degree in the School of Computer Science at Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/info/1019/2892.htm) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the university of Sydney (USYD) since September 2022.
+Yunke Wang is currently pursuing his Ph.D. degree in the School of Computer Science at Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/info/1019/2892.htm) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the University of Sydney (USYD) since September 2022.
 
-His research interests lie in imitation learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by exploring how to effectively leverage imperfect and visual demonstrations. In addition, he closely follows the latest developments in generative models within the computer vision field.
+His research interests lie in imitation learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, he closely follows the latest developments in generative models within the computer vision field.
 
 # 🔥 News
-- *2023.05*: 🎉🎉 Our paper "Learning to Schedule in Diffusion Probablisitic Models" is accepted by **KDD 2023**.
+- *2023.05*: 🎉🎉 Our paper "Learning to Schedule in Diffusion Probabilistic Models" is accepted by **KDD 2023**.
 - *2023.04*: I will serve as the reviewer of NeurIPS 2023 and Neural Networks.
 - *2023.02*: I will serve as the reviewer of ICCV 2023 and KDD 2023.
 - *2023.01*: I recieve the AAAI-23 Student Scholarship.
@@ -73,10 +73,10 @@ His research interests lie in imitation learning and its applications in compute
  
 # 🎖 Honors and Awards
 - *2023.01* AAAI-23 Student Scholarship, AAAI. 
-- *2022.10* Ourstanding Graduate Student Scholarship, Wuhan University. 
+- *2022.10* Outstanding Graduate Student Scholarship, Wuhan University. 
 - *2022.07* National Scholarship for Studying Abroad, Chinese Scholarship Council.
 - *2022.01* High-Level Paper Award at Institute of AI, Wuhan University. 
-- *2021.10* Yisheng Ph.D Scholarship, Wuhan University. 
+- *2021.10* Yisheng Ph.D. Scholarship, Wuhan University. 
 - *2018.10* Outstanding Student Scholarship, Wuhan University.
 - *2016.10* Outstanding Student Scholarship, Wuhan University.
 
@@ -87,7 +87,7 @@ His research interests lie in imitation learning and its applications in compute
 
 # 📖 Educations
 - *2015.09 - 2019.06*, Bachelor of Engineering in Computer Science, Wuhan University (WHU), Wuhan, China.
-- *2019.09 - Present*, Ph.D in Artificial Intelligence, Wuhan University (WHU), Wuhan, China.
+- *2019.09 - Present*, Ph.D. in Artificial Intelligence, Wuhan University (WHU), Wuhan, China.
 - *2022.09 - 2023.09*, Visiting Research Student, The University of Sydney (USYD), Sydney, Australia.
 
 # 💬 Invited Talks
@@ -99,4 +99,4 @@ His research interests lie in imitation learning and its applications in compute
 # 💻 Academic Service
 - Official Conference Reviewer / Program Committee Member: NeurIPS (2022, 2023), ICML (2022, 2023), ICLR (2023), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023), ICPR (2020, 2021), PLP (2021 KDD Workshop on Programming Language Processing).
 - Official Journal Reviewer: IEEE Transactions on Multimedia (T-MM) (Since 2021), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) (Since 2022), Neural Networks (Since 2023), etc.
-- Externel Reviewer: ICME 2023, KDD 2021.
+- External Reviewer: ICME 2023, KDD 2021.
