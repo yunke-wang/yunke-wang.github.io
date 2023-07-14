@@ -100,6 +100,6 @@ His research interests lie in imitation learning and its applications in compute
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class COMP5329.
 
 # 💻 Academic Service
-- Official Conference Reviewer / Program Committee Member: NeurIPS (2022, 2023), ICML (2022, 2023), ICLR (2023), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023, 2024), ICPR (2020, 2021), PLP (2021 KDD Workshop on Programming Language Processing).
-- Official Journal Reviewer: IEEE Transactions on Multimedia (T-MM) (Since 2021), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) (Since 2022), Neural Networks (Since 2023), etc.
-- External Reviewer: ICME 2023, KDD 2021.
+- Conference Reviewer / Program Committee Member: NeurIPS (2022, 2023), ICML (2022, 2023), ICLR (2023), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023, 2024), ICPR (2020, 2021), PLP (2021 KDD Workshop on Programming Language Processing).
+- Journal Reviewer: IEEE Transactions on Multimedia (T-MM) (Since 2021), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) (Since 2022), Neural Networks (Since 2023), etc.
+- External Conference Reviewer: ICME 2023, KDD 2021.
