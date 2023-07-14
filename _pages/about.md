@@ -23,6 +23,8 @@ Yunke Wang is currently pursuing his Ph.D. degree in the School of Computer Scie
 His research interests lie in imitation learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, he closely follows the latest developments in generative models within the computer vision field.
 
 # 🔥 News
+- *2023.07*: I will serve as the reviewer of AAAI 2024.
+- *2023.06*: I recieve the KDD-23 Student Travel Award. See you in CA 🇺🇸!
 - *2023.05*: 🎉🎉 Our paper "Learning to Schedule in Diffusion Probabilistic Models" is accepted by **KDD 2023**.
 - *2023.04*: I will serve as the reviewer of NeurIPS 2023 and Neural Networks.
 - *2023.02*: I will serve as the reviewer of ICCV 2023 and KDD 2023.
@@ -72,6 +74,7 @@ His research interests lie in imitation learning and its applications in compute
 </div> -->
  
 # 🎖 Honors and Awards
+- *2023.06* KDD-23 Student Travel Award, KDD.
 - *2023.01* AAAI-23 Student Scholarship, AAAI. 
 - *2022.10* Outstanding Graduate Student Scholarship, Wuhan University. 
 - *2022.07* National Scholarship for Studying Abroad, Chinese Scholarship Council.
@@ -97,6 +100,6 @@ His research interests lie in imitation learning and its applications in compute
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class COMP5329.
 
 # 💻 Academic Service
-- Official Conference Reviewer / Program Committee Member: NeurIPS (2022, 2023), ICML (2022, 2023), ICLR (2023), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023), ICPR (2020, 2021), PLP (2021 KDD Workshop on Programming Language Processing).
+- Official Conference Reviewer / Program Committee Member: NeurIPS (2022, 2023), ICML (2022, 2023), ICLR (2023), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023, 2024), ICPR (2020, 2021), PLP (2021 KDD Workshop on Programming Language Processing).
 - Official Journal Reviewer: IEEE Transactions on Multimedia (T-MM) (Since 2021), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) (Since 2022), Neural Networks (Since 2023), etc.
 - External Reviewer: ICME 2023, KDD 2021.
