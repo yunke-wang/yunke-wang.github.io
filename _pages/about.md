@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Yunke Wang is currently pursuing his Ph.D. degree in the School of Computer Science at Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/info/1019/2892.htm) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the University of Sydney (USYD) since September 2022.
+Yunke Wang is currently pursuing his Ph.D. degree at the School of Computer Science, Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/info/1019/2892.htm) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the University of Sydney (USYD) since September 2022.
 
 His research interests lie in imitation learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, he closely follows the latest developments in generative models within the computer vision field.
+
+*I will be on the job market in Fall 2023.*
 
 # 🔥 News
 - *2023.07*: I will serve as the reviewer of AAAI 2024.
@@ -98,6 +100,7 @@ His research interests lie in imitation learning and its applications in compute
 - *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Innovation Forum on Artificial Intelligence in Central and Western China (中西部地区人工智能类博士生创新论坛), online.
 - *2021.10*, "Deep Reinforcement Learning in Autonomous Driving" at In-Driving (武汉环宇智行科技有限公司).
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class COMP5329.
+- *2023.06*, "Imitation Learning from Imperfect Demonstrations", at "DiDi" Forum for Doctoral Students ("滴滴E鸣"博士论坛), online.
 
 # 💻 Academic Service
 - Conference Reviewer / Program Committee Member: NeurIPS (2022, 2023), ICML (2022, 2023), ICLR (2023), KDD (2023), CVPR (2023), ICCV (2023), AAAI (2022, 2023, 2024), ICPR (2020, 2021), PLP (2021 KDD Workshop on Programming Language Processing).
