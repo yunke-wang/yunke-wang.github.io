@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunke Wang"
-description              : "Ph.D Candidate // Interested in Deep Reinforcement Learning"
+description              : "Postdoc@USYD, Ph.D@WHU // Interested in Deep Reinforcement Learning"
 repository               : "yunke-wang/yunke-wang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunke Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "WHU / USYD"
+  bio              : "USYD"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
