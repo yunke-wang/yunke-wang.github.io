@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am a postdoctoral researcher at the School of Computer Science, University of Sydney (USYD), advised by Prof. Chang Xu. I obtained my Ph.D. degree at the School of Computer Science, Wuhan University (WHU), under the supervision of Prof. [Bo Du](http://cs.whu.edu.cn/info/1019/2892.htm) and Prof. [Chang Xu](http://changxu.xyz) in June 2024. Before that, I received my Bachelor's degree in computer science from Wuhan University in June 2019. He has been a visiting researcher at the University of Sydney (USYD) from 2022 to 2023.
 
-Yunke Wang is currently pursuing his Ph.D. degree at the School of Computer Science, Wuhan University (WHU), co-advised by Prof. [Bo Du](http://cs.whu.edu.cn/info/1019/2892.htm) and Dr. [Chang Xu](http://changxu.xyz). Before that, he received his B.S. degree in computer science from Wuhan University in 2019. He is a visiting researcher at the University of Sydney (USYD) since September 2022.
-
-His research interests lie in imitation learning and its applications in computer vision fields. Specifically, he wants to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, he closely follows the latest developments in generative models within the computer vision field.
+My research interests lie in imitation learning and its applications in computer vision fields. Specifically, I want to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, I closely follow the latest developments in generative models and LLMs.
 
 # 🔥 News
-- *2023.06*: I recieve the KDD-23 Student Travel Award.
+- *2024.05*: 🎉🎉 Our paper "Imitation Learning from Purified Demonstrations" is accepted by **ICML 2024**.
 - *2023.05*: 🎉🎉 Our paper "Learning to Schedule in Diffusion Probabilistic Models" is accepted by **KDD 2023**.
-- *2023.01*: I recieve the AAAI-23 Student Scholarship.
 - *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**
 - *2022.11*: 🎉🎉 Our paper "Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning" is accepted by **AAAI 2023**. 
 
@@ -51,10 +49,19 @@ His research interests lie in imitation learning and its applications in compute
 
 - **Yunke Wang**, Xiyu Wang, Anh-Dung Dinh, Bo Du, Chang Xu. "Learning to Schedule in Diffusion Probabilistic Models", In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
-[Coming Soon]
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599412)
 
-- **Yunke Wang**, Bo Du, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, 2022, Preprint.
+- **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks, 2024.
+<strong style="color:gray">(CCF B)</strong>
 [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
+
+- **Yunke Wang**, Minjing Dong, Yukun Zhao, Bo Du, Chang Xu. "Imitation Learning from Purified Demonstrations", In Proceedings of the 41st International Conference on Machine Learning **(ICML)**, 2024.
+<strong style="color:gray">(CCF A, Core A\*)</strong>
+[[Paper]](https://github.com/yunke-wang/dp-il)
+[[Code]](https://github.com/yunke-wang/dp-il)
+
+- **Yunke Wang**, Linwei Tao, Yutian Lin, Bo Du, Chang Xu. "Visual Imitation Learning with Calibrated Contrastive Representation", Preprint, 2024.
+[[Paper]](https://arxiv.org/abs/2401.11396)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,6 +76,9 @@ His research interests lie in imitation learning and its applications in compute
 </div> -->
  
 # 🎖 Honors and Awards
+- *2024.06* Outstanding Graduates, Wuhan University.
+- *2023.11* Academic Innovation Scholarship, Wuhan University.
+- *2023.11* National Scholarship for Graduate Students, Ministry of Education.
 - *2023.06* KDD-23 Student Travel Award, KDD.
 - *2023.01* AAAI-23 Student Scholarship, AAAI. 
 - *2022.12* First Prize Winner of China Graduate AI Innovation Competition **(8/1174)**.
@@ -77,16 +87,17 @@ His research interests lie in imitation learning and its applications in compute
 - *2018.08* First Prize Winner of Chinese Collegiate Internet of Things Design Competition (TI CUP) (Central South Region).
 
 # 📖 Educations
+- *2019.09 - 2024.06*, Ph.D. in Artificial Intelligence, Wuhan University (WHU), Wuhan, China.
 - *2015.09 - 2019.06*, Bachelor of Engineering in Computer Science, Wuhan University (WHU), Wuhan, China.
-- *2019.09 - Present*, Ph.D. in Artificial Intelligence, Wuhan University (WHU), Wuhan, China.
-- *2022.09 - 2023.09*, Visiting Research Student, The University of Sydney (USYD), Sydney, Australia.
+
+<!-- - *2022.09 - 2023.09*, Visiting Research Student, The University of Sydney (USYD), Sydney, Australia. -->
 
 # 💬 Talks
-- *2023.06*, "Imitation Learning from Imperfect Demonstrations", at "DiDi" Forum for Doctoral Students, online.
+- *2023.06*, "Imitation Learning from Imperfect Demonstrations", at "DiDi" Forum for Doctoral Students.
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class.
 - *2021.10*, "Deep Reinforcement Learning in Autonomous Driving" at In-Driving Co Ltd.
-- *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Innovation Forum on Artificial Intelligence in Central and Western China, online.
+- *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Innovation Forum on Artificial Intelligence in Central and Western China.
   
 # 💻 Academic Service
-- Conference Reviewer: NeurIPS, ICML, ICLR, KDD, CVPR, ICCV, AAAI, ICPR.
-- Journal Reviewer: IEEE Transactions on Multimedia (T-MM), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), Neural Networks.
+- Conference Reviewer: NeurIPS, ICML, ICLR, KDD, CVPR, ICCV, ECCV, AAAI, IJCAI, ICPR.
+- Journal Reviewer: TPAMI, TKDE, TMM, TCSVT, Neural Networks, Neurocomputing.
