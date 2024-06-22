@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher at the School of Computer Science, University of Sydney (USYD), advised by Prof. Chang Xu. I obtained my Ph.D. degree at the School of Computer Science, Wuhan University (WHU) in June 2024, under the supervision of Prof. Bo Du and Prof. Chang Xu. Before that, I received my Bachelor's degree in computer science from Wuhan University in June 2019. I have been a visiting researcher at the University of Sydney (USYD) from 2022 to 2023.
+I am a postdoctoral researcher at the School of Computer Science, University of Sydney (USYD), advised by Prof. Chang Xu. I obtained my Ph.D. degree at the School of Computer Science, Wuhan University (WHU) in June 2024, under the supervision of Prof. Bo Du and Prof. Chang Xu. Before that, I received my Bachelor's degree in computer science from Wuhan University in June 2019. I was a visiting research student at the University of Sydney (USYD) from 2022 to 2023.
 
 My research interests lie in imitation learning and its applications in computer vision fields. Specifically, I want to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, I closely follow the latest developments in generative models and LLMs.
 
@@ -76,7 +76,7 @@ My research interests lie in imitation learning and its applications in computer
 </div> -->
  
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Graduate Students, Wuhan University.
+- *2024.06* Outstanding Graduates, Wuhan University.
 - *2023.11* Academic Innovation Scholarship, Wuhan University.
 - *2023.11* National Scholarship for Graduate Students, Ministry of Education.
 - *2023.06* KDD-23 Student Travel Award, KDD.
