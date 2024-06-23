@@ -28,26 +28,26 @@ My research interests lie in imitation learning and its applications in computer
 - *2022.11*: 🎉🎉 Our paper "Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning" is accepted by **AAAI 2023**. 
 
 # 📝 Publications 
-- ``ICML 2021`` **Yunke Wang**, Chang Xu, Bo Du, Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
+- **Yunke Wang**, Chang Xu, Bo Du, Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](http://proceedings.mlr.press/v139/wang21aa/wang21aa.pdf)
 [[Supp]](http://proceedings.mlr.press/v139/wang21aa/wang21aa-supp.pdf)
 [[Code]](https://github.com/yunke-wang/WGAIL)
 [[Code_Atari]](https://github.com/yunke-wang/gail_atari)
 
-- ``IJCAI 2021`` **Yunke Wang**, Chang Xu, Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2021.
+- **Yunke Wang**, Chang Xu, Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2021.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://www.ijcai.org/proceedings/2021/0434.pdf)
 [[Supp]](https://github.com/yunke-wang/yunke-wang.github.io/blob/main/docs/IJCAI__21_Robust_Adversarial_Imitation_Learning_via_Adaptively_Selected_Demonstrations.pdf)
 [[Code]](https://github.com/yunke-wang/SAIL)
 
-- ``AAAI 2023`` **Yunke Wang**, Bo Du, Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
+- **Yunke Wang**, Bo Du, Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://arxiv.org/pdf/2302.06271.pdf)
 [[Supp]](https://github.com/yunke-wang/yunke-wang.github.io/blob/main/docs/Appendix_For_UID.pdf)
 [[Code]](https://github.com/yunke-wang/UID)
 
-- ``KDD 2023`` **Yunke Wang**, Xiyu Wang, Anh-Dung Dinh, Bo Du, Chang Xu. "Learning to Schedule in Diffusion Probabilistic Models", In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
+- **Yunke Wang**, Xiyu Wang, Anh-Dung Dinh, Bo Du, Chang Xu. "Learning to Schedule in Diffusion Probabilistic Models", In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599412)
 
@@ -55,7 +55,7 @@ My research interests lie in imitation learning and its applications in computer
 <strong style="color:gray">(CCF B)</strong>
 [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 
-- ``ICML 2024`` **Yunke Wang**, Minjing Dong, Yukun Zhao, Bo Du, Chang Xu. "Imitation Learning from Purified Demonstrations", In Proceedings of the 41st International Conference on Machine Learning **(ICML)**, 2024.
+- **Yunke Wang**, Minjing Dong, Yukun Zhao, Bo Du, Chang Xu. "Imitation Learning from Purified Demonstrations", In Proceedings of the 41st International Conference on Machine Learning **(ICML)**, 2024.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://github.com/yunke-wang/dp-il)
 [[Code]](https://github.com/yunke-wang/dp-il)
