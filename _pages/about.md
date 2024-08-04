@@ -57,7 +57,7 @@ My research interests lie in imitation learning and its applications in computer
 
 - **Yunke Wang**, Minjing Dong, Yukun Zhao, Bo Du, Chang Xu. "Imitation Learning from Purified Demonstrations", In Proceedings of the 41st International Conference on Machine Learning **(ICML)**, 2024.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
-[[Paper]](https://github.com/yunke-wang/dp-il)
+[[Paper]](https://proceedings.mlr.press/v235/wang24m.html)
 [[Code]](https://github.com/yunke-wang/dp-il)
 
 - **Yunke Wang**, Linwei Tao, Yutian Lin, Bo Du, Chang Xu. "Visual Imitation Learning with Calibrated Contrastive Representation", Preprint, 2024.
