@@ -22,6 +22,7 @@ I am a postdoctoral researcher at the School of Computer Science, University of 
 My research interests lie in imitation learning and its applications in computer vision fields. Specifically, I want to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, I closely follow the latest developments in generative models and LLMs.
 
 # 🔥 News
+- *2024.12*: 📢📢 Call for Papers: Welcome to contribute papers to our [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) at The Web Conference 2025 that will be held in Sydney 28 April - 2 May 2025.
 - *2024.12*: 🎉🎉 Our paper "WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration" is accepted by **AAAI 2025**.
 - *2024.05*: 🎉🎉 Our paper "Imitation Learning from Purified Demonstrations" is accepted by **ICML 2024**.
 - *2023.05*: 🎉🎉 Our paper "Learning to Schedule in Diffusion Probabilistic Models" is accepted by **KDD 2023**.
@@ -101,6 +102,6 @@ My research interests lie in imitation learning and its applications in computer
 - *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Innovation Forum on Artificial Intelligence in Central and Western China.
   
 # 💻 Academic Service
-- Workshop Organizer / Program Chair: [The Workshop on Sustainable AI for the Future Web (WSAI)](https://www25-sustainableai.github.io) on The Web Conference 2025.
-- Conference Reviewer: NeurIPS, ICML, ICLR, KDD, CVPR, ICCV, ECCV, AAAI, IJCAI, ICPR.
+- Workshop Organizer / Program Chair: The Workshop on Sustainable AI for the Future Web (WSAI) on The Web Conference 2025.
+- Conference Reviewer: NeurIPS, ICML, ICLR, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICPR.
 - Journal Reviewer: TPAMI, TKDE, TMM, TCSVT, Neural Networks, Neurocomputing.
