@@ -22,6 +22,7 @@ I am a postdoctoral researcher at the School of Computer Science, University of 
 My research interests lie in imitation learning and its applications in computer vision fields. Specifically, I want to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, I closely follow the latest developments in generative models and LLMs.
 
 # 🔥 News
+- *2024.11*: 🎉🎉 Our paper "WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration" is accepted by **AAAI 2025**.
 - *2024.05*: 🎉🎉 Our paper "Imitation Learning from Purified Demonstrations" is accepted by **ICML 2024**.
 - *2023.05*: 🎉🎉 Our paper "Learning to Schedule in Diffusion Probabilistic Models" is accepted by **KDD 2023**.
 - *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**
@@ -51,14 +52,14 @@ My research interests lie in imitation learning and its applications in computer
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599412)
 
-- **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks, 2024.
-<strong style="color:gray">(CCF B)</strong>
-[[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
-
 - **Yunke Wang**, Minjing Dong, Yukun Zhao, Bo Du, Chang Xu. "Imitation Learning from Purified Demonstrations", In Proceedings of the 41st International Conference on Machine Learning **(ICML)**, 2024.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://proceedings.mlr.press/v235/wang24m.html)
 [[Code]](https://github.com/yunke-wang/dp-il)
+
+- **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks, 2024.
+<strong style="color:gray">(CCF B)</strong>
+[[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 
 - **Yunke Wang**, Linwei Tao, Yutian Lin, Bo Du, Chang Xu. "Visual Imitation Learning with Calibrated Contrastive Representation", Preprint, 2024.
 [[Paper]](https://arxiv.org/abs/2401.11396)
@@ -93,11 +94,13 @@ My research interests lie in imitation learning and its applications in computer
 <!-- - *2022.09 - 2023.09*, Visiting Research Student, The University of Sydney (USYD), Sydney, Australia. -->
 
 # 💬 Talks
+- *2024.11*, "Policy Learning in Diffusion Models", at the University of Queensland, Brisbane City Campus, [International Workshop on Weakly Supervised Learning 2024](https://wsl-workshop.github.io/wsl24.html).
 - *2023.06*, "Imitation Learning from Imperfect Demonstrations", at "DiDi" Forum for Doctoral Students.
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class.
 - *2021.10*, "Deep Reinforcement Learning in Autonomous Driving" at In-Driving Co Ltd.
 - *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Innovation Forum on Artificial Intelligence in Central and Western China.
   
 # 💻 Academic Service
+- Workshop Organizer / Program Chair: [The Workshop on Sustainable AI for the Future Web (WSAI)](https://www25-sustainableai.github.io) on The Web Conference 2025.
 - Conference Reviewer: NeurIPS, ICML, ICLR, KDD, CVPR, ICCV, ECCV, AAAI, IJCAI, ICPR.
 - Journal Reviewer: TPAMI, TKDE, TMM, TCSVT, Neural Networks, Neurocomputing.
