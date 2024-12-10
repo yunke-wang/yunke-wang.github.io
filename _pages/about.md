@@ -94,7 +94,7 @@ My research interests lie in imitation learning and its applications in computer
 
 <!-- - *2022.09 - 2023.09*, Visiting Research Student, The University of Sydney (USYD), Sydney, Australia. -->
 
-# 💬 Talks
+# 💬 Invited Talks
 - *2024.11*, "Policy Learning in Diffusion Models", at the University of Queensland, Brisbane City Campus, [International Workshop on Weakly Supervised Learning 2024](https://wsl-workshop.github.io/wsl24.html).
 - *2023.06*, "Imitation Learning from Imperfect Demonstrations", at "DiDi" Forum for Doctoral Students.
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class.
