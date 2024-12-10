@@ -80,10 +80,10 @@ My research interests lie in imitation learning and its applications in computer
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduates, Wuhan University.
 - *2023.11* Academic Innovation Scholarship, Wuhan University.
-- *2023.11* National Scholarship for Graduate Students, Ministry of Education.
+- *2023.11* National Scholarship for Graduate Students, Ministry of Education. **(1%)**
 - *2023.06* KDD-23 Student Travel Award, KDD.
 - *2023.01* AAAI-23 Student Scholarship, AAAI. 
-- *2022.12* First Prize Winner of China Graduate AI Innovation Competition **(8/1174)**.
+- *2022.12* First Prize Winner of China Graduate AI Innovation Competition.  **(8/1174)**
 - *2021.10* Yisheng Ph.D. Scholarship, Wuhan University. 
 - *2018.08* Second Prize Winner of Chinese Collegiate Computing Competition.
 - *2018.08* First Prize Winner of Chinese Collegiate Internet of Things Design Competition (TI CUP) (Central South Region).
