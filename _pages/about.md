@@ -101,7 +101,8 @@ My research interests lie in imitation learning and its applications in computer
 - *2021.10*, "Deep Reinforcement Learning in Autonomous Driving" at In-Driving Co Ltd.
 - *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Innovation Forum on Artificial Intelligence in Central and Western China.
   
-# 💻 Academic Service
+# 🫶🏼 Academic Service
 - Workshop Organizer / Program Chair: The Workshop on Sustainable AI for the Future Web (WSAI) on The Web Conference 2025.
 - Conference Reviewer: NeurIPS, ICML, ICLR, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICPR.
 - Journal Reviewer: TPAMI, TKDE, TMM, TCSVT, Neural Networks, Neurocomputing.
+- Guest Lecturer: USYD GenAI Summer School 2024.
