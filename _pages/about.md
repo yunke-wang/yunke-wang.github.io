@@ -22,6 +22,7 @@ I am a postdoctoral researcher at the School of Computer Science, University of 
 My research interests lie in imitation learning and its applications in computer vision fields. Specifically, I want to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, I closely follow the latest developments in generative models and LLMs.
 
 # 🔥 News
+- *2025.01*: 🎉🎉 Our paper "CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V" is accepted by **NAACL Findings 2025**.
 - *2024.12*: 📢📢 Call for Papers: Welcome to contribute papers to our [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) at The Web Conference 2025 that will be held in Sydney 28 April - 2 May 2025.
 - *2024.12*: 🎉🎉 Our paper "WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration" is accepted by **AAAI 2025**.
 - *2024.05*: 🎉🎉 Our paper "Imitation Learning from Purified Demonstrations" is accepted by **ICML 2024**.
@@ -29,7 +30,7 @@ My research interests lie in imitation learning and its applications in computer
 - *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**
 - *2022.11*: 🎉🎉 Our paper "Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning" is accepted by **AAAI 2023**. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 - **Yunke Wang**, Chang Xu, Bo Du, Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](http://proceedings.mlr.press/v139/wang21aa/wang21aa.pdf)
