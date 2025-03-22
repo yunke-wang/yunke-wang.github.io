@@ -19,7 +19,11 @@ redirect_from:
 
 I am a postdoctoral researcher at the School of Computer Science, University of Sydney (USYD), advised by Prof. Chang Xu. I obtained my Ph.D. degree at the School of Computer Science, Wuhan University (WHU) in June 2024, under the supervision of Prof. Bo Du and Prof. Chang Xu. Before that, I received my Bachelor's degree in computer science from Wuhan University in June 2019. I was a visiting research student at the University of Sydney (USYD) from 2022 to 2023.
 
-My research interests lie in imitation learning and its applications in computer vision fields. Specifically, I want to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, I closely follow the latest developments in generative models and LLMs.
+My research interests lie in reinforcement learning/imitation learning and their applications in robotics. Specifically, 
+
+Feel free to send a email if you are seeking research collaboration in the field of robotics/generative models/VLM. 
+
+imitation learning and its applications in computer vision fields. Specifically, I want to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, I closely follow the latest developments in generative models and LLMs.
 
 # 🔥 News
 - *2025.01*: 🎉🎉 Our paper "CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V" is accepted by **NAACL Findings 2025**.
@@ -107,6 +111,6 @@ My research interests lie in imitation learning and its applications in computer
   
 # 🫶🏼 Academic Service
 - Workshop Organizer / Program Chair: The Workshop on Sustainable AI for the Future Web (WSAI) on The Web Conference 2025.
-- Conference Reviewer: NeurIPS, ICML, ICLR, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICPR.
+- Conference Reviewer: NeurIPS, ICML, ICLR, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, IROS, ICPR.
 - Journal Reviewer: TPAMI, TKDE, TMM, TCSVT, Neural Networks, Neurocomputing.
 - Guest Lecturer: USYD GenAI Summer School 2024.
