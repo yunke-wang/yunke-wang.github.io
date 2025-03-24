@@ -21,7 +21,7 @@ I am a postdoctoral researcher at the School of Computer Science, University of 
 
 My research interests lie in reinforcement learning/imitation learning and their applications in robotics. Specifically, imitation learning and its applications in computer vision fields. Specifically, I want to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, I closely follow the latest developments in generative models and LLMs.
 
-📢 Feel free to send an Email if you are seeking research collaboration in the field of robotics/generative models/VLM. 
+📢 Feel free to reach out if you are seeking research collaboration in the field of robotics/generative models/VLM. 
 
 # 🔥 News
 - *2025.01*: 🎉🎉 Our paper "CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V" is accepted by **NAACL Findings 2025**.
