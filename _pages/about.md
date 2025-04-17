@@ -19,7 +19,7 @@ redirect_from:
 
 I am a postdoctoral researcher at the School of Computer Science, University of Sydney (USYD), advised by Prof. Chang Xu. I obtained my Ph.D. degree at the School of Computer Science, Wuhan University (WHU) in June 2024, under the supervision of Prof. Bo Du and Prof. Chang Xu. Before that, I received my Bachelor's degree in computer science from Wuhan University in June 2019. I was a visiting research student at the University of Sydney (USYD) from 2022 to 2023.
 
-My research interests lie in reinforcement learning/imitation learning and their applications in robotics. Specifically, imitation learning and its applications in computer vision fields. Specifically, I want to make imitation learning more practical in real-world tasks by exploring how to leverage imperfect and visual demonstrations effectively. In addition, I closely follow the latest developments in generative models and LLMs.
+My research interests lie in reinforcement learning/imitation learning algorithms and their applications in robotics. In addition, I closely follow the latest developments in generative models and LLMs.
 
 📢 Feel free to reach out if you are seeking research collaboration in the field of robotics/generative models/VLM. 
 
