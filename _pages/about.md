@@ -64,7 +64,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 <strong style="color:gray">(CCF B, IF=6.0)</strong>
 [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 
--  **Yunke Wang**, Chang Xu, Tianyu Guo, Bo Du, Dacheng Tao. "On Positive-Unlabeled Classification from Corrupted Data in GANs", IEEE Pattern Recognition and Machine Intelligence **(TPAMI)**, 2025.
+-  **Yunke Wang**, Chang Xu, Tianyu Guo, Bo Du, Dacheng Tao. "On Positive-Unlabeled Classification from Corrupted Data in GANs", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2025.
 <strong style="color:gray">(CCF A, IF=20.4)</strong>
 [[Paper]]()
 
