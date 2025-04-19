@@ -24,13 +24,16 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 📢 Feel free to reach out if you are seeking research collaboration in the field of robotics/generative models/VLM. 
 
 # 🔥 News
+
+- *2025.05*: 🎉🎉 Our paper "FusionSAM“ is accepted by **KDD 2025**.
+- *2025.05*: 🎉🎉 Our paper "AI Scaling: From Up to Down and Out“ is accepted by **ICML 2025**.
+- *2025.04*: 🎉🎉 Our paper "On Positive-Unlabeled Classification from Corrupted Data in GANs“ is accepted by **IEEE TPAMI**.
 - *2025.01*: 🎉🎉 Our paper "CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V" is accepted by **NAACL Findings 2025**.
 - *2024.12*: 📢📢 Call for Papers: Welcome to contribute papers to our [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) at The Web Conference 2025 that will be held in Sydney 28 April - 2 May 2025.
 - *2024.12*: 🎉🎉 Our paper "WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration" is accepted by **AAAI 2025**.
 - *2024.05*: 🎉🎉 Our paper "Imitation Learning from Purified Demonstrations" is accepted by **ICML 2024**.
 - *2023.05*: 🎉🎉 Our paper "Learning to Schedule in Diffusion Probabilistic Models" is accepted by **KDD 2023**.
 - *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**
-- *2022.11*: 🎉🎉 Our paper "Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning" is accepted by **AAAI 2023**. 
 
 # 📝 Selected Publications 
 -  **Yunke Wang**, Chang Xu, Bo Du, Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
@@ -62,7 +65,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 [[Code]](https://github.com/yunke-wang/dp-il)
 
 -  **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks **(NN)**, 2024.
-<strong style="color:gray">(CCF B)</strong>
+<strong style="color:gray">(CCF B, IF=6.0)</strong>
 [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 
 -  **Yunke Wang**, Chang Xu, Tianyu Guo, Bo Du, Dacheng Tao. "On Positive-Unlabeled Classification from Corrupted Data in GANs", IEEE Pattern Recognition and Machine Intelligence **(TPAMI)**, 2025.
