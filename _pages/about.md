@@ -24,10 +24,6 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 📢 Feel free to reach out if you are seeking research collaboration in the field of robotics/generative models/VLM. 
 
 # 🔥 News
-
-- *2025.05*: 🎉🎉 Our paper "FusionSAM“ is accepted by **KDD 2025**.
-- *2025.05*: 🎉🎉 Our paper "AI Scaling: From Up to Down and Out“ is accepted by **ICML 2025**.
-- *2025.04*: 🎉🎉 Our paper "On Positive-Unlabeled Classification from Corrupted Data in GANs“ is accepted by **IEEE TPAMI**.
 - *2025.01*: 🎉🎉 Our paper "CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V" is accepted by **NAACL Findings 2025**.
 - *2024.12*: 📢📢 Call for Papers: Welcome to contribute papers to our [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) at The Web Conference 2025 that will be held in Sydney 28 April - 2 May 2025.
 - *2024.12*: 🎉🎉 Our paper "WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration" is accepted by **AAAI 2025**.
