@@ -61,9 +61,13 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 [[Paper]](https://proceedings.mlr.press/v235/wang24m.html)
 [[Code]](https://github.com/yunke-wang/dp-il)
 
-- **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks, 2024.
+- **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks **(NN)**, 2024.
 <strong style="color:gray">(CCF B)</strong>
 [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
+
+- **Yunke Wang**, Chang Xu, Tianyu Guo, Bo Du, Dacheng Tao. "On Positive-Unlabeled Classification from Corrupted Data in GANs", IEEE Pattern Recognition and Machine Intelligence **(TPAMI)**, 2025.
+<strong style="color:gray">(CCF A, IF=20.4)</strong>
+[[Paper]]
 
 - **Yunke Wang**, Linwei Tao, Yutian Lin, Bo Du, Chang Xu. "Visual Imitation Learning with Calibrated Contrastive Representation", Preprint, 2024.
 [[Paper]](https://arxiv.org/abs/2401.11396)
