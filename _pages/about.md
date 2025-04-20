@@ -24,7 +24,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 📢 Feel free to reach out if you are seeking research collaboration in the field of robotics/generative models/VLM. 
 
 # 🔥 News
-- *2025.01*: 🎉🎉 Our paper "On Positive-Unlabeled Classification from Corrupted Data in GANs”, IEEE Transactions on Pattern Analysis and Machine Intelligence" is accepted by **TPAMI 2025**.
+- *2025.04*: 🎉🎉 Our paper "On Positive-Unlabeled Classification from Corrupted Data in GANs”, IEEE Transactions on Pattern Analysis and Machine Intelligence" is accepted by **TPAMI 2025**.
 - *2024.12*: 📢📢 Call for Papers: Welcome to contribute papers to our [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) at The Web Conference 2025 that will be held in Sydney 28 April - 2 May 2025.
 - *2024.12*: 🎉🎉 Our paper "WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration" is accepted by **AAAI 2025**.
 - *2024.05*: 🎉🎉 Our paper "Imitation Learning from Purified Demonstrations" is accepted by **ICML 2024**.
