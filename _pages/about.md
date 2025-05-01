@@ -34,40 +34,40 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 
 # 📝 Selected Publications 
 
-1. <div class="badge">TPAMI 2025</div> **Yunke Wang**, Chang Xu, Tianyu Guo, Bo Du, Dacheng Tao. "On Positive-Unlabeled Classification from Corrupted Data in GANs", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2025.
+1.  **Yunke Wang**, Chang Xu, Tianyu Guo, Bo Du, Dacheng Tao. "On Positive-Unlabeled Classification from Corrupted Data in GANs", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2025.
 <strong style="color:gray">(CCF A, IF=20.4)</strong>
 [[Paper]]()
 
-2. ``ICML 2025`` **Yunke Wang**, Yanxi Li, Chang Xu. "AI Scaling: From Up to Down and Out", In Proceedings of the 42nd International Conference on Machine Learning **(ICML)**, 2025.
+2. **Yunke Wang**, Yanxi Li, Chang Xu. "AI Scaling: From Up to Down and Out", In Proceedings of the 42nd International Conference on Machine Learning **(ICML)**, 2025.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://www.arxiv.org/abs/2502.01677)
 
-3. ``ICML 2024`` **Yunke Wang**, Minjing Dong, Yukun Zhao, Bo Du, Chang Xu. "Imitation Learning from Purified Demonstrations", In Proceedings of the 41st International Conference on Machine Learning **(ICML)**, 2024.
+3. **Yunke Wang**, Minjing Dong, Yukun Zhao, Bo Du, Chang Xu. "Imitation Learning from Purified Demonstrations", In Proceedings of the 41st International Conference on Machine Learning **(ICML)**, 2024.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://proceedings.mlr.press/v235/wang24m.html)
 [[Code]](https://github.com/yunke-wang/dp-il)
 
-4. ``NN 2024`` **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks **(NN)**, 2024.
+4. **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks **(NN)**, 2024.
 <strong style="color:gray">(CCF B, IF=6.0)</strong>
 [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 
-5. ``KDD 2023`` **Yunke Wang**, Xiyu Wang, Anh-Dung Dinh, Bo Du, Chang Xu. "Learning to Schedule in Diffusion Probabilistic Models", In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
+5. **Yunke Wang**, Xiyu Wang, Anh-Dung Dinh, Bo Du, Chang Xu. "Learning to Schedule in Diffusion Probabilistic Models", In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599412)
 
-6.  ``AAAI 2023`` **Yunke Wang**, Bo Du, Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
+6. **Yunke Wang**, Bo Du, Chang Xu. “Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning”, In Proceedings of the 37th AAAI Conference on Artificial Intelligence **(AAAI)**, 2023.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://arxiv.org/pdf/2302.06271.pdf)
 [[Supp]](https://github.com/yunke-wang/yunke-wang.github.io/blob/main/docs/Appendix_For_UID.pdf)
 [[Code]](https://github.com/yunke-wang/UID)
 
-7. ``IJCAI 2021`` **Yunke Wang**, Chang Xu, Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2021.
+7. **Yunke Wang**, Chang Xu, Bo Du. “Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2021.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://www.ijcai.org/proceedings/2021/0434.pdf)
 [[Supp]](https://github.com/yunke-wang/yunke-wang.github.io/blob/main/docs/IJCAI__21_Robust_Adversarial_Imitation_Learning_via_Adaptively_Selected_Demonstrations.pdf)
 [[Code]](https://github.com/yunke-wang/SAIL)
 
-8. ``ICML 2021`` **Yunke Wang**, Chang Xu, Bo Du, Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
+8. **Yunke Wang**, Chang Xu, Bo Du, Honglak Lee. “Learning to Weight Imperfect Demonstrations”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2021.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](http://proceedings.mlr.press/v139/wang21aa/wang21aa.pdf)
 [[Supp]](http://proceedings.mlr.press/v139/wang21aa/wang21aa-supp.pdf)
