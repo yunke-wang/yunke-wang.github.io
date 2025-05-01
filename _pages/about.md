@@ -34,7 +34,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 
 # 📝 Selected Publications 
 
-1. ``TPAMI 2025`` **Yunke Wang**, Chang Xu, Tianyu Guo, Bo Du, Dacheng Tao. "On Positive-Unlabeled Classification from Corrupted Data in GANs", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2025.
+1. <div class="badge">TPAMI 2025</div> **Yunke Wang**, Chang Xu, Tianyu Guo, Bo Du, Dacheng Tao. "On Positive-Unlabeled Classification from Corrupted Data in GANs", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2025.
 <strong style="color:gray">(CCF A, IF=20.4)</strong>
 [[Paper]]()
 
