@@ -21,7 +21,7 @@ I am a postdoctoral researcher at the School of Computer Science, University of 
 
 My research interests lie in reinforcement learning/imitation learning algorithms and their applications in robotics. In addition, I closely follow the latest developments in generative models and LLMs.
 
-📢 Feel free to reach out if you are seeking research collaboration in the field of robotics/generative models/VLM. 
+📢 Feel free to reach out if you are seeking research collaboration in the field of robotics🤖/generative models🎨/VLM🧠. 
 
 # 🔥 News
 - *2025.05*: 🎉🎉 Our paper "Position: AI Scaling: From Up to Down and Out" is accepted by **ICML 2025**.
