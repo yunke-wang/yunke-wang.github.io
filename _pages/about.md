@@ -35,7 +35,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 # 📝 Selected Publications 
 
 1.  **Yunke Wang**, Chang Xu, Tianyu Guo, Bo Du, Dacheng Tao. "On Positive-Unlabeled Classification from Corrupted Data in GANs", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2025.
-<strong style="color:gray">(CCF A, IF=20.4)</strong>
+<strong style="color:gray">(CCF A, Core A\*, IF=20.4)</strong>
 [[Paper]](https://ieeexplore.ieee.org/document/10980032)
 
 2. **Yunke Wang**, Yanxi Li, Chang Xu. "AI Scaling: From Up to Down and Out", In Proceedings of the 42nd International Conference on Machine Learning **(ICML)**, 2025.
@@ -48,7 +48,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 [[Code]](https://github.com/yunke-wang/dp-il)
 
 4. **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks **(NN)**, 2024.
-<strong style="color:gray">(CCF B, IF=6.0)</strong>
+<strong style="color:gray">(CCF B, Core A, IF=6.0)</strong>
 [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 
 6. **Yunke Wang**, Xiyu Wang, Anh-Dung Dinh, Bo Du, Chang Xu. "Learning to Schedule in Diffusion Probabilistic Models", In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
