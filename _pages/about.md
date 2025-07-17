@@ -117,5 +117,5 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 # 🫶🏼 Academic Service
 - Workshop Organizer / Program Chair: The Workshop on Sustainable AI for the Future Web (WSAI) on The Web Conference 2025.
 - Conference Reviewer: NeurIPS, ICML, ICLR, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, IROS, ICPR.
-- Journal Reviewer: TPAMI, TKDE, TMM, TCSVT, Neural Networks, Neurocomputing.
+- Journal Reviewer: TPAMI, TIP, TKDE, TMM, TCSVT, Neural Networks, Neurocomputing.
 - Guest Lecturer: USYD GenAI Summer School 2024.
