@@ -31,7 +31,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - *2025.05*: 🎉🎉 Our paper "Position: AI Scaling: From Up to Down and Out" is accepted by **ICML 2025**.
 - *2025.04*: 🎉🎉 Our paper "On Positive-Unlabeled Classification from Corrupted Data in GANs” is accepted by **TPAMI 2025**.
 - *2024.12*: 📢📢 Call for Papers: Welcome to contribute papers to our [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) at The Web Conference 2025 that will be held in Sydney 28 April - 2 May 2025.
-- *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**
+<!--- *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**-->
 
 # 📝 Selected Publications 
 
@@ -98,15 +98,18 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - *2023.06* KDD-23 Student Travel Award, KDD.
 - *2023.01* AAAI-23 Student Scholarship, AAAI. 
 - *2022.12* First Prize Winner of China Graduate AI Innovation Competition.  **(8/1174)**
+
+  Project: Robust Gait Control and Automatic Navigation for Quadruped Robot
 - *2021.10* Yisheng Ph.D. Scholarship, Wuhan University. 
 - *2018.08* Second Prize Winner of Chinese Collegiate Computing Competition.
 - *2018.08* First Prize Winner of Chinese Collegiate Internet of Things Design Competition (TI CUP) (Central South Region).
 
 # 📖 Educations
 - *2019.09 - 2024.06*, Ph.D. in Artificial Intelligence, Wuhan University (WHU), Wuhan, China.
-- *2015.09 - 2019.06*, Bachelor of Engineering in Computer Science, Wuhan University (WHU), Wuhan, China.
+- *2015.09 - 2019.06*, B.Eng. in Computer Science, Wuhan University (WHU), Wuhan, China.
 
 # 💬 Invited Talks
+- *2025.11*，“Calibration of AI Models for Reliable Decision-Making”, at CommonWealth Bank of Australia, Redfern Office, USYD-CommBank Workshop.
 - *2024.11*, "Policy Learning in Diffusion Models", at the University of Queensland, Brisbane City Campus, [International Workshop on Weakly Supervised Learning 2024](https://wsl-workshop.github.io/wsl24.html).
 - *2023.06*, "Imitation Learning from Imperfect Demonstrations", at "DiDi" Forum for Doctoral Students.
 - *2023.02*, "Dynamic Neural Network in Vision Transformer" at the University of Sydney, Deep Learning Class.
@@ -117,4 +120,4 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - Workshop Organizer / Program Chair: The Workshop on Sustainable AI for the Future Web (WSAI) on The Web Conference 2025.
 - Conference Reviewer: NeurIPS, ICML, ICLR, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, IROS, ICPR.
 - Journal Reviewer: Artificial Intelligence, TPAMI, TIP, TKDE, TMM, TCSVT, RA-L, Neural Networks, Neurocomputing.
-- Guest Lecturer: USYD GenAI Summer School 2024, USYD GenAI Winter School 2025.
+- Guest Lecturer: OCMP 5329, USYD GenAI Summer School 2024, USYD GenAI Winter School 2025.
