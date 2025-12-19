@@ -42,13 +42,14 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 2. **Yunke Wang**, Yanxi Li, Chang Xu. "AI Scaling: From Up to Down and Out", In Proceedings of the 42nd International Conference on Machine Learning **(ICML)**, 2025.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://www.arxiv.org/abs/2502.01677)
+[[News]](https://mp.weixin.qq.com/s/utfZ-Y2USWmwdk5z1c-W4Q?scene=1) 
 
-3. **Yunke Wang**, Minjing Dong, Yukun Zhao, Bo Du, Chang Xu. "Imitation Learning from Purified Demonstrations", In Proceedings of the 41st International Conference on Machine Learning **(ICML)**, 2024.
+4. **Yunke Wang**, Minjing Dong, Yukun Zhao, Bo Du, Chang Xu. "Imitation Learning from Purified Demonstrations", In Proceedings of the 41st International Conference on Machine Learning **(ICML)**, 2024.
 <strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://proceedings.mlr.press/v235/wang24m.html)
 [[Code]](https://github.com/yunke-wang/dp-il)
 
-4. **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks **(NN)**, 2024.
+5. **Yunke Wang**, Bo Du, Wenyuan Wang, Chang Xu. “Multi-Tailed Vision Transformer for Efficient Inference”, Neural Networks **(NN)**, 2024.
 <strong style="color:gray">(CCF B, Core A, IF=6.0)</strong>
 [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 
