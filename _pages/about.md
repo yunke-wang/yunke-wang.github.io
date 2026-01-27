@@ -24,6 +24,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 📢 Feel free to reach out if you are seeking research collaboration in the field of robotics🤖/generative models🎨/VLM🧠. 
 
 # 🔥 News
+- *2026.01*: 🎉🎉 Our paper "Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation" is accepted by **ICLR 2026**.
 - *2025.11*: 🎉🎉 Our paper "Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment" is accepted by **AAAI 2026**.
 - *2025.09*: 🎉🎉 Our paper "[VLA-Cache](https://vla-cache.github.io): Efficient Vision-Language-Action Manipulation via Adaptive Token Caching" is accepted by **NeurIPS 2025**.
 - *2025.07*: 🎉🎉 Our paper "Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration" is accepted by **TMM 2025**.
