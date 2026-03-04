@@ -25,7 +25,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 
 # 🔥 News
 - *2026.02*: 🎉🎉 Three papers are accepted by **CVPR 2026**.
-- *2026.01*: 🎉🎉 Our paper "Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation" is accepted by **ICLR 2026**. [[Code]](https://www.terrypei.com/VLA-ADP/)
+- *2026.01*: 🎉🎉 Our paper "Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation" is accepted by **ICLR 2026**. [[Code]](https://github.com/chen7086/VLA-ADP)
 - *2025.11*: 🎉🎉 Our paper "Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment" is accepted by **AAAI 2026**. [[Code]](https://github.com/Ruixxxx/VisionDrop)
 - *2025.09*: 🎉🎉 Our paper "[VLA-Cache](https://vla-cache.github.io): Efficient Vision-Language-Action Manipulation via Adaptive Token Caching" is accepted by **NeurIPS 2025**.
 - *2025.07*: 🎉🎉 Our paper "Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration" is accepted by **TMM 2025**.
