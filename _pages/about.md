@@ -121,8 +121,9 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Innovation Forum on Artificial Intelligence in Central and Western China.
   
 # 🫶🏼 Academic Service
-- Workshop Organizer / Program Chair: The Workshop on Sustainable AI for the Future Web (WSAI) on The Web Conference 2025.
-- Conference Reviewer: NeurIPS, ICML, ICLR, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICRA, IROS, ICPR.
-- Journal Reviewer: Artificial Intelligence, TPAMI, TIP, TKDE, TMM, TCSVT, RA-L, Neural Networks, Neurocomputing.
+- Conference Organizer: Local Arragement Chair of [DICTA 2026](https://dicta2026.dictaconference.org).
+- Workshop Organizer: Program Chair of the [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) (WSAI) on The Web Conference 2025.
+- Conference Reviewer: ICML, ICLR, NeurIPS, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICRA, IROS, ICPR.
+- Journal Reviewer: Artificial Intelligence Journal, TPAMI, TIP, TKDE, TMM, TCSVT, RA-L, Neural Networks, Neurocomputing.
 - Guest Lecturer: COMP/OCMP 5329, USYD GenAI Summer School 2024, USYD GenAI Winter School 2025.
 - Program Coordinator: USYD GenAI Summer School 2025
