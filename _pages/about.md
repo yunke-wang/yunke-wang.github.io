@@ -121,7 +121,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Innovation Forum on Artificial Intelligence in Central and Western China.
   
 # 🫶🏼 Academic Service
-- Conference Organizer: Local Arragement Chair of [DICTA 2026](https://dicta2026.dictaconference.org).
+- Conference Organizer: Local Arrangement Chair of [DICTA 2026](https://dicta2026.dictaconference.org).
 - Workshop Organizer: Program Chair of the [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) (WSAI) on The Web Conference 2025.
 - Conference Reviewer: ICML, ICLR, NeurIPS, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICRA, IROS, ICPR.
 - Journal Reviewer: Artificial Intelligence Journal, TPAMI, TIP, TKDE, TMM, TCSVT, RA-L, Neural Networks, Neurocomputing.
