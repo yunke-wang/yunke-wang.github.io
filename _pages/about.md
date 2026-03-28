@@ -32,7 +32,6 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - *2025.05*: 🎉🎉 Our paper "FusionSAM: Visual Multi-Modal Learning with Segment Anything Model" is accepted by **KDD 2025**.
 - *2025.05*: 🎉🎉 Our paper "Position: AI Scaling: From Up to Down and Out" is accepted by **ICML 2025**.
 - *2025.04*: 🎉🎉 Our paper "On Positive-Unlabeled Classification from Corrupted Data in GANs” is accepted by **TPAMI 2025**.
-- *2024.12*: 📢📢 Call for Papers: Welcome to contribute papers to our [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) at The Web Conference 2025 that will be held in Sydney 28 April - 2 May 2025.
 <!--- *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**-->
 
 # 📝 Selected Publications 
