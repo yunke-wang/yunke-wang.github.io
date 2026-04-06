@@ -24,6 +24,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 📢 Feel free to reach out if you are seeking research collaboration in the field of robotics🤖/generative models🎨/VLM🧠. 
 
 # 🔥 News
+- *2026.04*: 🎉🎉 One paper is accepted by **ACL 2026**.
 - *2026.02*: 🎉🎉 Three papers are accepted by **CVPR 2026**.
 - *2026.01*: 🎉🎉 Our paper "Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation" is accepted by **ICLR 2026**. [[Code]](https://github.com/chen7086/VLA-ADP)
 - *2025.11*: 🎉🎉 Our paper "Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment" is accepted by **AAAI 2026**. [[Code]](https://github.com/Ruixxxx/VisionDrop)
