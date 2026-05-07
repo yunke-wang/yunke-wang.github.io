@@ -113,7 +113,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - *2015.09 - 2019.06*, B.Eng. in Computer Science, Wuhan University (WHU), Wuhan, China.
 
 # 💬 Invited Talks
-- *2026.02*，“Vision-Language-Action Model: Bridging the Intelligence to the Physical World” at the University of Sydney, Deep Learning Class
+- *2026.02*，“Vision-Language-Action Model: Bridging the Intelligence to the Physical World” at the University of Sydney, Deep Learning Class.
 - *2025.11*，“Calibration of AI Models for Reliable Decision-Making”, at CommonWealth Bank of Australia, Redfern Office, USYD-CommBank Workshop.
 - *2024.11*, "Policy Learning in Diffusion Models", at the University of Queensland, Brisbane City Campus, [International Workshop on Weakly Supervised Learning 2024](https://wsl-workshop.github.io/wsl24.html).
 - *2023.06*, "Imitation Learning from Imperfect Demonstrations", at "DiDi" Forum for Doctoral Students.
@@ -124,6 +124,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 # 🫶🏼 Academic Service
 - Conference Organizer: Local Arrangement Chair of [DICTA 2026](https://dicta2026.dictaconference.org).
 - Workshop Organizer: Program Chair of the [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) (WSAI) on The Web Conference 2025.
+- Area Chair: NeurIPS.
 - Conference Reviewer: ICML, ICLR, NeurIPS, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICRA, IROS, ICPR.
 - Journal Reviewer: Artificial Intelligence Journal, TPAMI, TIP, TKDE, TMM, TCSVT, RA-L, Neural Networks, Neurocomputing.
 - Guest Lecturer: COMP/OCMP 5329, USYD GenAI Summer School 2024, USYD GenAI Winter School 2025.
