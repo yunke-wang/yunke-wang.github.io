@@ -24,7 +24,6 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 📢 Feel free to reach out if you are seeking research collaboration in the field of robotics🤖/generative models🎨/VLM🧠. 
 
 # 🔥 News
-- *2026.05*: 🎉🎉 I recieve ICML 2026 Gold Reviewer Award.
 - *2026.05*: 🎉🎉 Four papers are accepted by **ICML 2026**.
 - *2026.04*: 🎉🎉 One paper is accepted by **ACL 2026**.
 - *2026.02*: 🎉🎉 Three papers (1 highlight) are accepted by **CVPR 2026**.
@@ -97,6 +96,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 </div> -->
  
 # 🎖 Honors and Awards
+- *2026.05* Gold Reviewer Award, ICML.
 - *2024.06* Outstanding Graduates, Wuhan University.
 - *2023.11* Academic Innovation Scholarship, Wuhan University.
 - *2023.11* National Scholarship for Graduate Students, Ministry of Education. **(1%)**
