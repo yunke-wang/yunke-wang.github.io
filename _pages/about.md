@@ -126,7 +126,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - Conference Organizer: Local Arrangement Chair of [DICTA 2026](https://dicta2026.dictaconference.org).
 - Workshop Organizer: Program Chair of the [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) (WSAI) on The Web Conference 2025.
 - Area Chair: NeurIPS.
-- Conference Reviewer: ICML (26' Gold Reviewer Award), ICLR, NeurIPS, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICRA, IROS, ICPR.
+- Conference Reviewer: ICML, ICLR, NeurIPS, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICRA, IROS, ICPR.
 - Journal Reviewer: Artificial Intelligence Journal, TPAMI, TIP, TKDE, TMM, TCSVT, RA-L, Neural Networks, Neurocomputing.
 - Guest Lecturer: COMP/OCMP 5329, USYD GenAI Summer School 2024, USYD GenAI Winter School 2025.
 - Program Coordinator: USYD GenAI Summer School 2025
