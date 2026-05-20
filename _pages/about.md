@@ -24,6 +24,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 📢 Feel free to reach out if you are seeking research collaboration in the field of robotics🤖/generative models🎨/VLM🧠. 
 
 # 🔥 News
+- *2026.05*: 🎉🎉 One paper is accepted by **TIP 2026**.
 - *2026.05*: 🎉🎉 Four papers are accepted by **ICML 2026**.
 - *2026.04*: 🎉🎉 One paper is accepted by **ACL 2026**.
 - *2026.02*: 🎉🎉 Three papers (1 highlight) are accepted by **CVPR 2026**.
