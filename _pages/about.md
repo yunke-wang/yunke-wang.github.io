@@ -124,10 +124,11 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - *2021.09*, "Imitation Learning from Imperfect Demonstrations" at Doctoral Innovation Forum on Artificial Intelligence in Central and Western China.
   
 # 🫶🏼 Academic Service
+- Academic Leadership: Co-Lead of Green Computing Pillar, [Net Zero Institute](https://www.sydney.edu.au/net-zero-institute/), The University of Sydney
 - Conference Organizer: Local Arrangement Chair of [DICTA 2026](https://dicta2026.dictaconference.org).
-- Workshop Organizer: Program Chair of the [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) (WSAI) on The Web Conference 2025.
+- Workshop Organizer: Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) (WSAI) on The Web Conference 2025.
 - Area Chair: NeurIPS.
 - Conference Reviewer: ICML, ICLR, NeurIPS, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICRA, IROS, ICPR.
 - Journal Reviewer: Artificial Intelligence Journal, TPAMI, TIP, TKDE, TMM, TCSVT, RA-L, Neural Networks, Neurocomputing.
-- Guest Lecturer: COMP/OCMP 5329, USYD GenAI Summer School 2024, USYD GenAI Winter School 2025.
-- Program Coordinator: USYD GenAI Summer School 2025
+- Guest Lecturer: USYD COMP 5329 Deep Learning, 2026 S1/2025 S1; USYD OCMP 5329 Deep Learning Online Course, 2025 S1,S2/2026 S1; USYD GenAI Summer/Winter School 2024 S2/2025 S1/2025 S2/2026 S1.
+- Teaching Assistant: Introduction of Computer Networks, WHU 2022 S1; Large-Scale Software Engineering, WHU 2019 S1.
