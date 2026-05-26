@@ -24,16 +24,21 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 📢 Feel free to reach out if you are seeking research collaboration in the field of robotics🤖/generative models🎨/VLM🧠. 
 
 # 🔥 News
+- *2026.05*: We received an ARC Linkage Project (LP) grant on "Enabling VLA Assistive Robotics for the Future of Aged Care in Australia"!
 - *2026.05*: 🎉🎉 One paper is accepted by **TIP 2026**.
 - *2026.05*: 🎉🎉 Four papers are accepted by **ICML 2026**.
+- *2026.04*: I will serve as the Area Chair of **NeurIPS 2026**.
+- *2026.04*: I will serve as the Local Arrangement Chair of [DICTA 2026](https://dicta2026.dictaconference.org).
 - *2026.04*: 🎉🎉 One paper is accepted by **ACL 2026**.
 - *2026.02*: 🎉🎉 Three papers (1 highlight) are accepted by **CVPR 2026**.
+- *2026.01*: We received an AEA (Australia's Economic Accelerator) Ignit grant on "Last-link Automation in Daily Retail Operations"!
 - *2026.01*: 🎉🎉 Our paper "Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation" is accepted by **ICLR 2026**. [[Code]](https://github.com/chen7086/VLA-ADP)
 - *2025.11*: 🎉🎉 Our paper "Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment" is accepted by **AAAI 2026**. [[Code]](https://github.com/Ruixxxx/VisionDrop)
 - *2025.09*: 🎉🎉 Our paper "[VLA-Cache](https://vla-cache.github.io): Efficient Vision-Language-Action Manipulation via Adaptive Token Caching" is accepted by **NeurIPS 2025**.
 - *2025.07*: 🎉🎉 Our paper "Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration" is accepted by **TMM 2025**.
 - *2025.05*: 🎉🎉 Our paper "FusionSAM: Visual Multi-Modal Learning with Segment Anything Model" is accepted by **KDD 2025**.
 - *2025.05*: 🎉🎉 Our paper "Position: AI Scaling: From Up to Down and Out" is accepted by **ICML 2025**.
+- *2025.04*: We have successfully organized the [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) (WSAI) on The Web Conference 2025 [CORE A*].
 - *2025.04*: 🎉🎉 Our paper "On Positive-Unlabeled Classification from Corrupted Data in GANs” is accepted by **TPAMI 2025**.
 <!--- *2022.12*: 🎉🎉 Our project 'Robust Gait Control and Automatic Navigation for Quadruped Robot' wins the \*first\* prize of China Graduate AI Innovation Competition **(8/1174)**-->
 
@@ -126,7 +131,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 # 🫶🏼 Academic Service
 - Academic Leadership: Co-Lead of Green Computing Pillar, [Net Zero Institute](https://www.sydney.edu.au/net-zero-institute/), The University of Sydney
 - Conference Organizer: Local Arrangement Chair of [DICTA 2026](https://dicta2026.dictaconference.org).
-- Workshop Organizer: Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) (WSAI) on The Web Conference 2025.
+- Workshop Organizer: [Workshop on Sustainable AI for the Future Web](https://www25-sustainableai.github.io) (WSAI) on The Web Conference 2025.
 - Area Chair: NeurIPS.
 - Conference Reviewer: ICML, ICLR, NeurIPS, KDD, MM, CVPR, ICCV, ECCV, AAAI, IJCAI, ICRA, IROS, ICPR.
 - Journal Reviewer: Artificial Intelligence Journal, TPAMI, TIP, TKDE, TMM, TCSVT, RA-L, Neural Networks, Neurocomputing.
