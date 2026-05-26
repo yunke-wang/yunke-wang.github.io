@@ -30,6 +30,7 @@ My research interests lie in reinforcement learning/imitation learning algorithm
 - *2026.05*: I will serve as the Local Arrangement Chair of [DICTA 2026](https://dicta2026.dictaconference.org).
 - *2026.05*: 4 papers are accepted by **ICML 2026**.
 - *2026.04*: 1 paper is accepted by **ACL 2026**.
+- *2026.03*: I was awarded with EMCRs Training Scheme Grant as the Lead Applicant.
 - *2026.02*: 3 papers (1 highlight) are accepted by **CVPR 2026**.
 - *2026.01*: We received an AEA (Australia's Economic Accelerator) Ignite grant on "Last-link Automation in Daily Retail Operations"!
 - *2026.01*: Our paper "Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation" is accepted by **ICLR 2026**. [[Code]](https://github.com/chen7086/VLA-ADP)
