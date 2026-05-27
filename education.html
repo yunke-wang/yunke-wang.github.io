@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education – Yunke Wang</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <div class="nav-inner">
+        <a href="index.html" class="nav-brand">Yunke Wang</a>
+        <ul class="nav-links">
+            <li><a href="index.html">About</a></li>
+            <li><a href="education.html" class="active">Education</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="awards.html">Awards</a></li>
+            <li><a href="talks.html">Talks</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="teaching.html">Teaching</a></li>
+            <li><a href="cv.pdf" target="_blank">CV</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="page-hero">
+    <div class="page-hero-inner">
+        <h1>Education</h1>
+        <p>Academic background and research training</p>
+    </div>
+</div>
+
+<div class="page-body">
+
+    <section class="section" id="positions">
+        <h2 class="section-title">Positions</h2>
+        <ul class="edu-list">
+            <li class="edu-item">
+                <div>
+                    <div class="edu-degree">Postdoctoral Research Associate</div>
+                    <div class="edu-inst">The University of Sydney (USYD)</div>
+                    <div class="edu-detail">Advisor: Prof. Chang Xu &nbsp;·&nbsp; Sydney, Australia</div>
+                </div>
+                <span class="edu-period">Aug. 2024 – Present</span>
+            </li>
+            <li class="edu-item">
+                <div>
+                    <div class="edu-degree">Visiting Ph.D. Student</div>
+                    <div class="edu-inst">The University of Sydney (USYD)</div>
+                    <div class="edu-detail">Advisor: Prof. Chang Xu &nbsp;·&nbsp; Sydney, Australia</div>
+                </div>
+                <span class="edu-period">Sept. 2022 – Sept. 2023</span>
+            </li>
+        </ul>
+    </section>
+
+    <section class="section" id="degrees">
+        <h2 class="section-title">Degrees</h2>
+        <ul class="edu-list">
+            <li class="edu-item">
+                <div>
+                    <div class="edu-degree">Ph.D. in Artificial Intelligence</div>
+                    <div class="edu-inst">Wuhan University (WHU)</div>
+                    <div class="edu-detail">Advisor: Prof. Bo Du &nbsp;·&nbsp; Wuhan, China</div>
+                    <div class="edu-detail" style="font-style:italic;">Thesis: Robust Imitation Learning with Imperfect Demonstrations</div>
+                </div>
+                <span class="edu-period">Sept. 2019 – June 2024</span>
+            </li>
+            <li class="edu-item">
+                <div>
+                    <div class="edu-degree">B.Eng. in Computer Science</div>
+                    <div class="edu-inst">Wuhan University (WHU)</div>
+                    <div class="edu-detail">Wuhan, China</div>
+                </div>
+                <span class="edu-period">Sept. 2015 – June 2019</span>
+            </li>
+        </ul>
+    </section>
+
+</div>
+
+<footer>
+    <p>© 2026 Yunke Wang &nbsp;·&nbsp; <a href="mailto:yunke.wang@sydney.edu.au">yunke.wang@sydney.edu.au</a></p>
+    <p style="margin-top:0.3rem; font-size:0.78rem;">Last updated: May 2026</p>
+</footer>
+<button id="back-top" title="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+<script>
+    const btn = document.getElementById('back-top');
+    window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 300));
+</script>
+</body>
+</html>

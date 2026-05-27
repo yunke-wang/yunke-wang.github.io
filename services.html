@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services – Yunke Wang</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <div class="nav-inner">
+        <a href="index.html" class="nav-brand">Yunke Wang</a>
+        <ul class="nav-links">
+            <li><a href="index.html">About</a></li>
+            <li><a href="education.html">Education</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="awards.html">Awards</a></li>
+            <li><a href="talks.html">Talks</a></li>
+            <li><a href="services.html" class="active">Services</a></li>
+            <li><a href="teaching.html">Teaching</a></li>
+            <li><a href="cv.pdf" target="_blank">CV</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="page-hero">
+    <div class="page-hero-inner">
+        <h1>Services</h1>
+        <p>Academic service</p>
+    </div>
+</div>
+
+<div class="page-body">
+
+    <section class="section" id="service">
+        <h2 class="section-title">Academic Services</h2>
+
+        <div class="service-block">
+            <div class="service-heading">Academic Leadership</div>
+            <ul class="service-list">
+                <li>Co-Lead of Green Computing Pillar, Net Zero Institute, The University of Sydney</li>
+            </ul>
+        </div>
+
+        <div class="service-block">
+            <div class="service-heading">Conference Organizer</div>
+            <ul class="service-list">
+                <li>Local Arrangement Chair, DICTA [Premier Conference on Computer Vision in Australia], 2026</li>
+            </ul>
+        </div>
+
+        <div class="service-block">
+            <div class="service-heading">Workshop Organizer</div>
+            <ul class="service-list">
+                <li>AI Coding for Research Productivity: An EMCR Training Workshop, The University of Sydney, 2026</li>
+                <li>Workshop on Sustainable AI for the Future Web, The Web Conference [CORE A* / CCF A], 2025</li>
+            </ul>
+        </div>
+
+        <div class="service-block">
+            <div class="service-heading">Area Chair</div>
+            <ul class="service-list">
+                <li>NeurIPS</li>
+            </ul>
+        </div>
+
+        <div class="service-block">
+            <div class="service-heading">Conference Reviewer</div>
+            <ul class="service-list">
+                <li>NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, KDD, ACM MM, AAAI, IJCAI, ICRA, IROS, ICPR</li>
+            </ul>
+        </div>
+
+        <div class="service-block">
+            <div class="service-heading">Journal Reviewer</div>
+            <ul class="service-list">
+                <li>TPAMI, Artificial Intelligence, TIP, TMM, TKDE, TCSVT, RA-L, Neural Networks, Neurocomputing, PR-L</li>
+            </ul>
+        </div>
+
+    </section>
+
+
+</div>
+
+<footer>
+    <p>© 2026 Yunke Wang &nbsp;·&nbsp; <a href="mailto:yunke.wang@sydney.edu.au">yunke.wang@sydney.edu.au</a></p>
+    <p style="margin-top:0.3rem; font-size:0.78rem;">Last updated: May 2026</p>
+</footer>
+<button id="back-top" title="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+<script>
+    const btn = document.getElementById('back-top');
+    window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 300));
+</script>
+</body>
+</html>
