@@ -49,12 +49,15 @@
 <div class="page-body">
 <section class="section">
 
-    <div class="pub-filters">
-        <button class="pub-filter active" data-filter="year">By Year</button>
-        <button class="pub-filter" data-filter="first">First Author</button>
-        <button class="pub-filter" data-filter="robotics">Robotics</button>
-        <button class="pub-filter" data-filter="generative">Generative Models</button>
-        <button class="pub-filter" data-filter="vlm">VLM</button>
+    <div class="pub-stats">
+        <div class="pub-stat pub-stat-ccf-a">
+            <span class="pub-stat-num" data-count="badge-a">27</span>
+            <span class="badge badge-a">CCF A</span>
+        </div>
+        <div class="pub-stat pub-stat-core-astar">
+            <span class="pub-stat-num" data-count="badge-core-astar">28</span>
+            <span class="badge badge-core-astar">Core A*</span>
+        </div>
     </div>
 
 <ul class="pub-list" id="pub-list">
@@ -526,58 +529,9 @@
     const btn = document.getElementById('back-top');
     window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 300));
 
-    const filters = document.querySelectorAll('.pub-filter');
-    const papers  = document.querySelectorAll('.pub-item');
-    const yearLis = document.querySelectorAll('.pub-year-li');
-
-    // Store original numbers on load
-    papers.forEach(p => {
-        const numEl = p.querySelector('.pub-num');
-        if (numEl) p.dataset.origNum = numEl.textContent;
-    });
-
-    function renumber(visible) {
-        // Number top-to-bottom as [1], [2], ...
-        visible.forEach((p, i) => {
-            const numEl = p.querySelector('.pub-num');
-            if (numEl) numEl.textContent = `[${i + 1}]`;
-        });
-    }
-
-    function restoreNumbers() {
-        papers.forEach(p => {
-            const numEl = p.querySelector('.pub-num');
-            if (numEl) numEl.textContent = p.dataset.origNum;
-        });
-    }
-
-    filters.forEach(btn => {
-        btn.addEventListener('click', () => {
-            filters.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-
-            const f = btn.dataset.filter;
-
-            if (f === 'year') {
-                papers.forEach(p  => p.style.display = '');
-                yearLis.forEach(y => y.style.display = '');
-                restoreNumbers();
-                return;
-            }
-
-            yearLis.forEach(y => y.style.display = 'none');
-
-            const visible = [];
-            papers.forEach(p => {
-                const match = f === 'first'
-                    ? p.dataset.first === 'true'
-                    : p.dataset.topics === f;
-                p.style.display = match ? '' : 'none';
-                if (match) visible.push(p);
-            });
-
-            renumber(visible);
-        });
+    // Count badges so the totals stay in sync as papers are added
+    document.querySelectorAll('.pub-stat-num').forEach(el => {
+        el.textContent = document.querySelectorAll('.pub-item .' + el.dataset.count).length;
     });
 </script>
 </body>
