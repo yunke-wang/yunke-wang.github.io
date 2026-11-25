@@ -43,22 +43,12 @@
 <div class="page-hero">
     <div class="page-hero-inner">
         <h1>Publications</h1>
+        <p class="pub-stats"><strong data-count="badge-a">27</strong> CCF A &nbsp;·&nbsp; <strong data-count="badge-core-astar">28</strong> CORE A*</p>
     </div>
 </div>
 
 <div class="page-body">
 <section class="section">
-
-    <div class="pub-stats">
-        <div class="pub-stat pub-stat-ccf-a">
-            <span class="pub-stat-num" data-count="badge-a">27</span>
-            <span class="badge badge-a">CCF A</span>
-        </div>
-        <div class="pub-stat pub-stat-core-astar">
-            <span class="pub-stat-num" data-count="badge-core-astar">28</span>
-            <span class="badge badge-core-astar">Core A*</span>
-        </div>
-    </div>
 
 <ul class="pub-list" id="pub-list">
 
@@ -530,7 +520,7 @@
     window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 300));
 
     // Count badges so the totals stay in sync as papers are added
-    document.querySelectorAll('.pub-stat-num').forEach(el => {
+    document.querySelectorAll('.pub-stats [data-count]').forEach(el => {
         el.textContent = document.querySelectorAll('.pub-item .' + el.dataset.count).length;
     });
 </script>

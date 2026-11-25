@@ -154,29 +154,7 @@ nav {
 /* ====================================================
    PUBLICATION STATS
 ==================================================== */
-.pub-stats {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-    margin-bottom: 1.4rem;
-}
-.pub-stat {
-    display: flex;
-    align-items: center;
-    gap: 0.6rem;
-    padding: 0.5rem 1rem;
-    border: 1px solid var(--border);
-    border-radius: 6px;
-}
-.pub-stat-num {
-    font-family: 'Roboto Slab', serif;
-    font-size: 1.5rem;
-    font-weight: 700;
-    line-height: 1;
-}
-.pub-stat-ccf-a .pub-stat-num       { color: var(--ccf-a-txt); }
-.pub-stat-core-astar .pub-stat-num  { color: var(--core-astar-txt); }
-.pub-stat .badge { font-size: 0.75rem; }
+.pub-stats strong { color: var(--text); font-weight: 700; }
 
 /* ====================================================
    RESEARCH INTEREST CARDS
