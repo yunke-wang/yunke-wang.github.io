@@ -43,8 +43,8 @@
 <div class="page-hero">
     <div class="page-hero-inner">
         <h1>Publications</h1>
-        <p class="pub-stats"><span data-venue="TPAMI"><strong>2</strong> TPAMI</span> &nbsp;·&nbsp; <span data-venue="TIP"><strong>1</strong> TIP</span> &nbsp;·&nbsp; <span data-venue="TMM"><strong>1</strong> TMM</span> &nbsp;·&nbsp; <span data-venue="TMLR"><strong>1</strong> TMLR</span></p>
-        <p class="pub-stats"><span data-venue="ICML"><strong>7</strong> ICML</span> &nbsp;·&nbsp; <span data-venue="NeurIPS"><strong>3</strong> NeurIPS</span> &nbsp;·&nbsp; <span data-venue="ICLR"><strong>1</strong> ICLR</span> &nbsp;·&nbsp; <span data-venue="CVPR"><strong>3</strong> CVPR</span> &nbsp;·&nbsp; <span data-venue="ECCV"><strong>1</strong> ECCV</span> &nbsp;·&nbsp; <span data-venue="KDD"><strong>3</strong> KDD</span> &nbsp;·&nbsp; <span data-venue="AAAI"><strong>3</strong> AAAI</span> &nbsp;·&nbsp; <span data-venue="ACM MM"><strong>1</strong> ACM MM</span> &nbsp;·&nbsp; <span data-venue="IJCAI"><strong>1</strong> IJCAI</span> &nbsp;·&nbsp; <span data-venue="ACL"><strong>1</strong> ACL</span></p>
+        <p class="pub-stats"><span data-count="badge-a"><strong>27</strong> CCF A</span> &nbsp;·&nbsp; <span data-count="badge-b"><strong>7</strong> CCF B</span></p>
+        <p class="pub-stats"><span data-count="badge-core-astar"><strong>28</strong> CORE A*</span> &nbsp;·&nbsp; <span data-count="badge-core-a"><strong>4</strong> CORE A</span></p>
     </div>
 </div>
 
@@ -520,11 +520,10 @@
     const btn = document.getElementById('back-top');
     window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 300));
 
-    // Count papers per venue so the totals stay in sync as papers are added
-    const venues = [...document.querySelectorAll('.pub-item .pub-venue')].map(v => v.textContent);
-    document.querySelectorAll('.pub-stats [data-venue]').forEach(el => {
-        const tag = '(' + el.dataset.venue + ')';
-        el.querySelector('strong').textContent = venues.filter(t => t.includes(tag)).length;
+    // Count badges so the totals stay in sync as papers are added
+    document.querySelectorAll('.pub-stats [data-count]').forEach(el => {
+        el.querySelector('strong').textContent =
+            document.querySelectorAll('.pub-item .' + el.dataset.count).length;
     });
 </script>
 </body>
